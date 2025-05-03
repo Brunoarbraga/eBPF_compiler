@@ -3,7 +3,7 @@ eBPF Tools
 
 Framework to facilitate eBPF testing and verification. 
 A compiler based on kfl ebpf-tools (https://github.com/kfl/ebpf-tools), with an
-added byte-code translation, compilation and execution option.
+added byte-code translation, compilation and execution option on src/Compiler.
 
 
 Build instructions
